@@ -37,7 +37,6 @@
     text-decoration: none;
     padding: 10px;
     font-size: 2vw;
-    text-decoration: underline;
   }
 
   .hero-section {
@@ -68,8 +67,6 @@
     
   }
   aside h1 {
-    
-    
     font-size: 4em;
     font-weight: 900;
   }
@@ -77,7 +74,6 @@
   main {
     flex: 3;
     padding: 20px;
-   
   }
 
   .image-container {
@@ -88,7 +84,6 @@
 
   .large-image {
     width: 100%; 
-    
     overflow: hidden;
     position: relative;
   }
