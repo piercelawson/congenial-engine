@@ -91,7 +91,7 @@
   .large-image img {
     width: 100%;
     height: auto;
-    display: block;
+    display: inline;
     transition: transform 0.3s ease-in-out;
   }
 
@@ -130,6 +130,7 @@
 
   .about-me p {
     line-height: 1.6;
+    font-size: 2vw;
   }
 
   footer {
